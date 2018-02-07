@@ -24,7 +24,6 @@
 	</div>
 	<div id="footer">
 		&copy; 2008-2018 <a href="http://abatishchev.ru">Alexander Batishchev</a>. Hosted by <a href="http://godfather.net.ru">Godfather</a>
-
 	</div>
 
 <script type="text/javascript">
